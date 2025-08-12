@@ -6,6 +6,8 @@ This repository contain references to working examples, educational materials an
 
 * [Clean Architecture](./topics/clean.md)
 * [Domain Driven Design](./topics/domain.md)
+* [Semantic Data Modelling](./topics/semantic.md)
+* [UML modelling notations](./topics/uml.md)
 
 ## Disclaimer
 
